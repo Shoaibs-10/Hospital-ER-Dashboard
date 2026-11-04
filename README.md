@@ -30,8 +30,8 @@ A hospital emergency room needs to know how many patients it handles, how long t
 | Deliverable | Status |
 |---|---|
 | Dashboard screenshot | Included |
-| Power BI file (.pbix) | To be added |
-| Dataset | To be added |
+| Power BI file (.pbix) | Included |
+
 
 ## Author
 **Shoaib Shaikh**
